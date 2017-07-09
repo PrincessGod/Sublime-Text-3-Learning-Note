@@ -151,5 +151,5 @@ Preferences->Settings ; add lines
 * Webgl Completions
 
 
-## Relate youtube videos
+## Relate videos
 [Youtube Video](https://www.youtube.com/watch?v=SVkR1ZkNusI&index=1&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK)
