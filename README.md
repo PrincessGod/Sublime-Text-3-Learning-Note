@@ -146,6 +146,9 @@ Preferences->Settings ; add lines
 * Alignment
 * Emmet
 * SublimeLinter + jshint
+* HTML/CSS/JS Prettify
+* JavaScript Completions
+* Webgl Completions
 
 
 ## Relate youtube videos
