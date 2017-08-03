@@ -149,6 +149,7 @@ Preferences->Settings ; add lines
 * HTML/CSS/JS Prettify
 * JavaScript Completions
 * Webgl Completions
+* BracketHighlighter
 
 
 ## Relate videos
